@@ -12,6 +12,7 @@ REST API гифок - https://developers.giphy.com/docs/api#quick-start-guide
 
 Endpoints:
 http://localhost:8080/gif для получения рандомной гиф
+
 http://localhost:8080/sym для получения списка всех валют
 
 Запуск .jar:  java -jar demo-0.0.1-SNAPSHOT-plain.jar
